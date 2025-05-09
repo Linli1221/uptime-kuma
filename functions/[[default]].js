@@ -5,7 +5,7 @@
 
 export async function onRequest(context) {
     // 源站地址
-    const ORIGIN = "http://166.108.203.60:3000";
+    const ORIGIN = "https://uptime-kuma-zbt30zrf19.edgeone.site";
     
     // 获取请求信息
     const request = context.request;
